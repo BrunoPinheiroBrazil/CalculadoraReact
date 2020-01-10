@@ -9,8 +9,6 @@ ReactDOM.render(
         <h1>Teste Calculators!</h1>
         <Calculator />
     </React.Fragment>
-
-
 , document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
